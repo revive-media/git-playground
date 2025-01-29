@@ -1,0 +1,1 @@
+cp -r /Users/Shared/git-playground/.git/* /Users/Shared/git-playground-xray/git-internals
